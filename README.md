@@ -5,6 +5,9 @@
 ### 🚀 About This Repository
 This repo documents my structured learning journey as I transition from mechanical engineering to full-stack web development. I'm currently pursuing the [freeCodeCamp Full Stack Certification](https://www.freecodecamp.org/learn/full-stack-developer/) aligned with [Meta Front-End Developer Professional Certificate in Coursera](https://www.coursera.org/professional-certificates/meta-front-end-developer).
 
+### Updates
+- Started July 2025
+
 ### 🧭 Why This Vault Exists
 - To track my progress across HTML, CSS, JavaScript, Web Frameworks, UI/UX, and scalable design.
 - To showcase my growth through hands-on exercises and mini-projects.
