@@ -1,0 +1,98 @@
+:root {
+    --color0: black;
+    --color1: white;
+    --color2: gray;
+    --color3: lightgreen;
+    --color4: rgb(26, 167, 26);
+    --color5: green;
+    --solid-border: 3px solid gray;
+    --dashed-border: 3px dashed gray;
+}
+
+
+body {
+    background-color:rgb(226, 253, 244);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 90%;
+    margin: 20vh auto;
+    padding: 2% 5%;
+    background-color: rgb(199, 245, 245);
+    border-radius: 20px;
+}
+
+.week, .time {
+    font-style: italic;
+    font-size: .8rem; 
+}
+
+.sharp td {
+    border-bottom: var(--solid-border);
+}
+
+.half td {
+    border-bottom: var(--dashed-border);
+}
+
+td[class^=available] {
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.available-0 {
+    background-color: var(--color0);
+}
+
+.available-1 {
+    background-color: var(--color1);
+}
+
+.available-2 {
+    background-color: var(--color2);
+}
+
+.available-3 {
+    background-color: var(--color3);
+}
+
+.available-4 {
+    background-color: var(--color4);
+}
+
+.available-5 {
+    background-color: var(--color5);
+}
+
+#legend {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#legend-gradient {
+    border: 1px solid black;
+    width: 30%;
+    height: 20px;
+    margin: 10px auto;
+    border-radius: 5px;
+    background-image: linear-gradient(
+        90deg,
+        var(--color0) 0% 16%,
+        var(--color1) 16% 33%,
+        var(--color2) 33% 50%,
+        var(--color3) 50% 66%,
+        var(--color4) 66% 83%,
+        var(--color5) 83% 100%
+    );
+}
+
+@media screen and (max-width: 600px) {
+    
+}
