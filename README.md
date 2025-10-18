@@ -35,9 +35,12 @@ Each folder contains:
 
 
 ### 🧪 Sample Projects
-| Project Name        | Description                            | Link |
-|---------------------|----------------------------------------|------|
-| `smart-home-form`   | A responsive form for device setup     | [View](#) |
+| Project Name                  | Description                                      | Preview Website |
+|------------------------------|--------------------------------------------------|------------------|
+| [`Product Landing Page`](ProjectsAndExercises/18.ProductLandingPage/index.html) | A single landing page that sells trombone | [View](https://yehiaaly.github.io/web-dev-learning-journey/2.CSS/ProjectsAndExercises/18.ProductLandingPage) |
+| [`Personal Portfolio`](ProjectsAndExercises/20.PersonalPortfolio/index.html) | The capstone project of the FCC's CSS section | [View](https://yehiaaly.github.io/web-dev-learning-journey/2.CSS/ProjectsAndExercises/20.PersonalPortfolio) |
+
+---
 
 
 ### 📓 Weekly Reflections
