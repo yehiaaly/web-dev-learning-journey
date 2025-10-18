@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <h1>Checkout</h1>
+    <section>
+        <h2>Your Cart</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="test">
+    </section>
+    <section>
+        <h2>Payment Information</h2>
+        <form action="">
+            <label for="card-name">Name</label>
+            <input aria-required="true" required type="text" id="card-name" name="card-name" placeholder="e.g. Yehia Aly">
+            <br>
+            <label for="card-number">Card Number</label>
+            <input aria-required="true" required type="tel" id="card-number" name="card-number" placeholder="e.g. 1234 5678 9012 3456" placeholder="e.g. 1234 5678 9012 3456" pattern="[\d\s]{13,19}" maxlength="19" title="Enter a valid card number">
+            <br>
+            <label for="expiry-date">Expiry Date</label>
+            <input required type="text" id="expiry-date" placeholder="MM/YY" pattern="(0[1-9]|1[0-2])\/[0-9]{2}" title="Enter a date in MM/YY format" maxlength="5">
+            <br>
+            <label for="cvv">CVV</label>
+            <input required type="tel" id="cvv" placeholder="e.g. 123" pattern="\d{3}" title="Enter a valid CVV" maxlength="3">
+            <br>
+            <button type="submit">Place Order</button>
+        </form>
+    </section>
+</body>
+
+</html>
