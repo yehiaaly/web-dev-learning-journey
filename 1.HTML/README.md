@@ -5,10 +5,10 @@ This folder contains a collection of freeCodeCamp HTML exercises that I complete
 
 | Project Name                  | Description                                      |
 |------------------------------|--------------------------------------------------|
-| [`cart.html`](ProjecsAndExercises\cart.html)                     | A basic shopping cart layout using semantic HTML. |
-| [`freeCodeCamp Survey Form.html`](ProjecsAndExercises\freecodecampSurveyForm.html) | A responsive survey form built for FCC challenge. |
-| [`Movie Review.html`](ProjecsAndExercises\movie-Review.html)   | A simple movie review page with structured content. |
-| [`Multimedia Player.html`](ProjecsAndExercises\multimediaPlayer.html) | A mock media player interface using HTML5 elements. |
+| [`cart.html`](ProjecsAndExercises/cart.html)                     | A basic shopping cart layout using semantic HTML. |
+| [`freeCodeCamp Survey Form.html`](ProjecsAndExercises/freecodecampSurveyForm.html) | A responsive survey form built for FCC challenge. |
+| [`Movie Review.html`](ProjecsAndExercises/movie-Review.html)   | A simple movie review page with structured content. |
+| [`Multimedia Player.html`](ProjecsAndExercises/multimediaPlayer.html) | A mock media player interface using HTML5 elements. |
 
 ---
 
